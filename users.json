@@ -1,0 +1,75 @@
+[
+  {
+    "id": 1,
+    "login": "alex_smith",
+    "password": "password123",
+    "name": "Алексей Смирнов",
+    "about": "Программист, любитель путешествий и фотографии. Работаю в IT уже 5 лет.",
+    "avatar": "http://localhost:3000/uploads/alex_smith.png",
+    "subscriptions": [
+      2,
+      4
+    ]
+  },
+  {
+    "id": 2,
+    "login": "maria_k",
+    "password": "password123",
+    "name": "Мария Козлова",
+    "about": "Дизайнер интерьеров. Создаю уютные пространства для жизни и работы.",
+    "avatar": "http://localhost:3000/uploads/maria_k.png",
+    "subscriptions": [
+      3,
+      1
+    ]
+  },
+  {
+    "id": 3,
+    "login": "dmitry_dev",
+    "password": "password123",
+    "name": "Дмитрий Петров",
+    "about": "Frontend разработчик. Увлекаюсь веб-технологиями и открытым исходным кодом.",
+    "avatar": "http://localhost:3000/uploads/dmitry_dev.png",
+    "subscriptions": [
+      1,
+      5
+    ]
+  },
+  {
+    "id": 4,
+    "login": "anna_art",
+    "password": "password123",
+    "name": "Анна Иванова",
+    "about": "Художник и иллюстратор. Создаю цифровое искусство и традиционные картины.",
+    "avatar": "http://localhost:3000/uploads/anna_art.png",
+    "subscriptions": [
+      2,
+      6
+    ]
+  },
+  {
+    "id": 5,
+    "login": "sergey_tech",
+    "password": "password123",
+    "name": "Сергей Волков",
+    "about": "Обо мне: Системный администратор. Обеспечиваю стабильную работу IT-инфраструкту",
+    "avatar": "http://localhost:3000/uploads/sergey_tech.png",
+    "subscriptions": [
+      4,
+      3,
+      2
+    ]
+  },
+  {
+    "id": 6,
+    "login": "elena_fit",
+    "password": "password123",
+    "name": "Елена Соколова",
+    "about": "Фитнес-тренер и нутрициолог. Помогаю людям достигать своих целей в спорте.",
+    "avatar": "http://localhost:3000/uploads/elena_fit.png",
+    "subscriptions": [
+      4,
+      5
+    ]
+  }
+]
